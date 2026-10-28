@@ -1,0 +1,13 @@
+{
+  "name": "fixture-react-ui",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "vitest": "^3.0.0"
+  }
+}

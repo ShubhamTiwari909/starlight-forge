@@ -1,0 +1,8 @@
+{
+  "name": "starlight-forge",
+  "description": "Create accurate, evidence-backed repository documentation in Markdown or Astro + Starlight.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Starlight Forge contributors"
+  }
+}

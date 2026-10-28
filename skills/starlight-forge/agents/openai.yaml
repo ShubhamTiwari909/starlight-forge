@@ -1,0 +1,4 @@
+interface:
+  display_name: "Starlight Forge"
+  short_description: "Create source-grounded project documentation"
+  default_prompt: "Use Starlight Forge to inspect this repository, propose an evidence-backed documentation plan, and create or update docs in the format I specify."

@@ -1,0 +1,20 @@
+{
+  "name": "starlight-forge",
+  "interface": {
+    "displayName": "Starlight Forge"
+  },
+  "plugins": [
+    {
+      "name": "starlight-forge",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

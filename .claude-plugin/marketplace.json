@@ -1,0 +1,19 @@
+{
+  "name": "starlight-forge",
+  "description": "Repository documentation workflow",
+  "owner": {
+    "name": "Starlight Forge contributors"
+  },
+  "metadata": {
+    "description": "Plugins for evidence-backed repository documentation",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "starlight-forge",
+      "source": "./",
+      "description": "Create accurate developer documentation in Markdown or Astro + Starlight.",
+      "version": "0.1.0"
+    }
+  ]
+}

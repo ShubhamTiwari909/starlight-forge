@@ -1,0 +1,18 @@
+{
+  "name": "starlight-forge",
+  "owner": {
+    "name": "Starlight Forge contributors"
+  },
+  "metadata": {
+    "description": "A repository documentation plugin",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "starlight-forge",
+      "description": "Create accurate developer documentation in Markdown or Astro + Starlight.",
+      "version": "0.1.0",
+      "source": "."
+    }
+  ]
+}
