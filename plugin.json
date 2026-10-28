@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "starlight-forge",
+  "version": "0.1.0",
+  "description": "Create accurate, evidence-backed repository documentation in Markdown or Astro + Starlight.",
+  "author": {
+    "name": "Starlight Forge contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "documentation",
+    "repository-analysis",
+    "astro",
+    "starlight"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "starlight-forge",
+  "version": "0.1.0",
+  "interface": {
+    "displayName": "Starlight Forge",
+    "shortDescription": "Evidence-backed docs",
+    "longDescription": "Inspect a software repository and create accurate developer documentation in portable Markdown or Astro + Starlight.",
+    "developerName": "Starlight Forge contributors",
+    "category": "Productivity",
+    "capabilities": [
+      "Create repository documentation"
+    ]
+  }
+}

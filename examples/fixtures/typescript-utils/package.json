@@ -1,0 +1,14 @@
+{
+  "name": "fixture-typescript-utils",
+  "private": true,
+  "type": "module",
+  "exports": "./src/index.ts",
+  "scripts": {
+    "test": "tsx --test tests/*.test.ts",
+    "check": "tsc --noEmit --target ES2022 --module NodeNext --moduleResolution NodeNext src/index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
